@@ -12,7 +12,7 @@ The role was a product manager to engage in growth for the company so let's brea
 
   First things first, who are OpenAgent?
 
-  In a nutshell
+  In a nutshell - everything after this is a test to see whether or not git in mac works 
 
 
 ## OpenAgent page breakdown
