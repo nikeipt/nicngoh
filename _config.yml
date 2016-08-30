@@ -17,7 +17,7 @@ baseurl: ""
 title: Nick Ngoh
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Just marking my territory on the interweb
 
 # --- Navigation bar options --- #
 
@@ -83,7 +83,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:day-:month-:title/
