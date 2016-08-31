@@ -18,16 +18,17 @@ The role was for a **product manager** with a focus on **growth** for the compan
 Where growth = more users entering their details and opting in for phone calls
 
 One little insight that came out of the competitor comparison is:
+
 ![Competitor comparison](/post images/2016-08-29-open-agent-post/OpenAgent competitor comparison.PNG)
 
 Visitors were spending less than 1 minute on the website and it's easy to see why:
 
-**Landing Page with prompt**
+
 ![Competitor comparison](/post images/2016-08-29-open-agent-post/Landing page.PNG)
+Landing page
 
-**Input Information to get your personalised phone call**
 ![Competitor comparison](/post images/2016-08-29-open-agent-post/Information input.PNG)
-
+Information Prompt page
 
 
 
