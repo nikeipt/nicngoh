@@ -15,11 +15,20 @@ The role was for a **product manager** with a focus on **growth** for the compan
   They provide the service for free to the end user and act as lead generators for real estate agents and their revenue model is based off the commission the agents earn from a successful sale.
 
 ## So how do we encourage growth?
-And by growth I'm assuming this to mean more users signing up and
+Where growth = more users entering their details and opting in for phone calls
+
+One little insight that came out of the competitor comparison is:
+![Competitor comparison](/post images/2016-08-29-open-agent-post/OpenAgent competitor comparison.PNG)
+
+Visitors were spending less than 1 minute on the website and it's easy to see why:
+
+##### Landing Page with prompt
+![Competitor comparison](/post images/2016-08-29-open-agent-post/Landing page.PNG)
+
+##### Input Information to get your personalised phone call
+![Competitor comparison](/post images/2016-08-29-open-agent-post/Information input.PNG)
 
 
-
-## jdfkjlkjl
 
 
 
