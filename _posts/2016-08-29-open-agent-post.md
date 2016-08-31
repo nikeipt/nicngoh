@@ -8,14 +8,18 @@ Just did an application to [OpenAgent](www.openagent.com) and it was a great lit
 
 The role was for a **product manager** with a focus on **growth** for the company so let's break it down from here:
 
-## OpenAgent
+## Who are OpenAgent?
 
-  First things first, who are OpenAgent and what do they do?
+  From their landing page you can see that they help everyday users **"Find quality real estate agents in your area".** They act as a real estate agent comparison tool but the information isn't publicly available. In order to get more information you have to enter your details and phone number and a OpenAgent staff member will call you and gather your requirements and recommend a shortlist of agents for you.
 
-  From their landing page you can see that they help everyday users "Find quality real estate agents in your area". They act as a real estate agent comparison tool but the information is gated.
+  They provide the service for free to the end user and act as lead generators for real estate agents and their revenue model is based off the commission the agents earn from a successful sale.
+
+## So how do we encourage growth?
+And by growth I'm assuming this to mean more users signing up and
 
 
 
+## jdfkjlkjl
 
 
 
@@ -23,7 +27,6 @@ The role was for a **product manager** with a focus on **growth** for the compan
 
 ## "Why?" + a little Gary Vee
 
-## Miscellaneous
 
 
 > Reviews from real estate agents and whether or not they matter
