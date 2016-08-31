@@ -22,10 +22,10 @@ One little insight that came out of the competitor comparison is:
 
 Visitors were spending less than 1 minute on the website and it's easy to see why:
 
-##### Landing Page with prompt
+**Landing Page with prompt**
 ![Competitor comparison](/post images/2016-08-29-open-agent-post/Landing page.PNG)
 
-##### Input Information to get your personalised phone call
+**Input Information to get your personalised phone call**
 ![Competitor comparison](/post images/2016-08-29-open-agent-post/Information input.PNG)
 
 
