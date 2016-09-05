@@ -37,15 +37,14 @@ Information Prompt page
 
 Where growth = more users entering their details and opting in for phone calls. If the user opts for the phone call then the user journey is extended and there is the opportunity for OpenAgent to establish rapport and demonstrate their expertise.
 
-Submitting your phone number is a relatively small price to pay when you consider the influence a real estate agent has on property value. A marginal difference of 5% can easily mean tens of 1000's of difference. That said gated info is only valuable when the availability of the information is low and not easily googleable.
-
-BTW I've excluded the pre-product journey, so essentially all the pre research on the area and what a user might want in their real estate agent.
-
 * Lengthen the user journey and provide some tailored meaningful information along the way before the call-to-action.
 
+
+![Competitor comparison](/post images/2016-08-29-open-agent-post/B - Suburb Profile Search.PNG)
+
 ![B - Suburb profile above the fold](/post images/2016-08-29-open-agent-post/B - Suburb profile above fold.png)
-![Competitor comparison](/post images/2016-08-29-open-agent-post/Information input.PNG)
-![Competitor comparison](/post images/2016-08-29-open-agent-post/Information input.PNG)
+
+![Competitor comparison](/post images/2016-08-29-open-agent-post/B - Suburb profile beneath fold.png)
 
 
 
@@ -55,7 +54,7 @@ BTW I've excluded the pre-product journey, so essentially all the pre research o
 
 ## "Why?" + a little Gary Vee
 
-
+Gary Vaynerchuk's
 
 > Reviews from real estate agents and whether or not they matter
 narrow views i.e tinder/yelp/restaurant menu
