@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Little big details 
+title: Little big details
 tags: [Little big details]
 ---
 
