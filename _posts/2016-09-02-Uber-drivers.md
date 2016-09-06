@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Little big details - Uber: Take me home
+title: Little big details 
 tags: [Little big details]
 ---
 
