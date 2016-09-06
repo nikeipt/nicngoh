@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Case Study - OpenAgent   
-tags: [Product Management, Marketing, UX]
+title: Little big details - Uber: Take me home
+tags: [Little big details]
 ---
 
-Just did an application to [OpenAgent](www.openagent.com) and it was a great little mental exercise. I only have 2 years experience and they were asking for 3, so I thought I'd even the playing field a little by giving them a little slidedeck to show where my mind was coming from
+uber feature where the driver sets their home location or wherever they wish to finish up the night and get a job where 
