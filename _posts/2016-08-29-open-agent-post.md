@@ -29,15 +29,19 @@ Landing page
 ![Competitor comparison](/post images/2016-08-29-open-agent-post/Information input.PNG)
 Information Prompt page
 
- And no you, can't get rid of the pop up window. All that tantalising information is just out of reach. If you choose to not enter your details then this is where your journey ends. Short isn't it? What I feel is lacking is any sense of rapport. Any establishment of credentials of OpenAgent as an authority on comparing real estate agents or any content to look upon to establish some sense of trust.
+ And no you can't get rid of the pop-up window. If you choose to not enter your details then this is where your journey ends. Short isn't it? What I feel is lacking is any sense of rapport or interaction. Any establishment of credentials of OpenAgent as an authority on comparing real estate agents or any content to look upon to establish some sense of trust.
 
- To be fair you can view a [snapshot of agents](http://www.openagent.com.au/find-agents/nsw/sydney) and there is a [blog](http://www.openagent.com.au/blog), but these are located down in the footer where I imagine a very small percentage will find it.  
+ To be fair you can view a [snapshot of agents](http://www.openagent.com.au/find-agents/nsw/sydney) and there is a [blog](http://www.openagent.com.au/blog), but these are located down in the footer hidden amongst the other links.
 
 ## So how do we encourage growth?
 
 Where growth = more users entering their details and opting in for phone calls. If the user opts for the phone call then the user journey is extended and there is the opportunity for OpenAgent to establish rapport and demonstrate their expertise.
 
 * Lengthen the user journey and provide some tailored meaningful information along the way before the call-to-action.
+* Suburban profile has been copied from [Realestate.com.au](https://www.realestate.com.au/buy) which presents real estate info in a very beautiful way
+* Map on the 3rd picture places the user's address in the center and the green pins represent the properties that other OpenAgent's have sold in the area. Demonstrates expertise in the area without explicitly saying it
+* Beneath the map I've placed 3 agents for that particular area. A possible approach would be to replace the reviews with certain expertise i.e apartments, industrial, buying so that users can start framing their needs in terms of certain keywords
+* Call to action has been placed beneath the agent cards (In retrospect I would stretch it to fill the width and make the font weight heavier, currently it has the same visual weight as 'Load More Properties')
 
 
 ![Competitor comparison](/post images/2016-08-29-open-agent-post/B - Suburb Profile Search.PNG)
@@ -48,13 +52,10 @@ Where growth = more users entering their details and opting in for phone calls. 
 
 
 
-
-
-
-
 ## "Why?" + a little Gary Vee
 
-Gary Vaynerchuk's
+So what's the thinking behind these changes.
 
-> Reviews from real estate agents and whether or not they matter
-narrow views i.e tinder/yelp/restaurant menu
+Looking at the data available users aren't staying on the page before exiting. The main hypothesis to be tested would be "Does lengthening average user duration increase growth/conversion"
+
+The idea behind presenting some tailored information before the call-to-action is based off lessons from [Gary Vaynerchuk](https://www.garyvaynerchuk.com/). One of the big ideas he puts out is the concept of [jab, jab, jab, right hook](https://www.youtube.com/watch?v=NfP43Y3IlDM). The idea is simply don't do a call-to-action without giving something back. OpenAgent has a great service but that's their Right Hook. It's their finisher and by jabbing a little more it might just pay dividends. 
