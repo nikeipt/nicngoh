@@ -16,7 +16,7 @@ A great primer on all these things can be found [here](http://www.givegoodux.com
 
 
 ## Godaddy
-While browsing for this domain I stopped by Godaddy and ran through their website. When you click on **[Select]** it changes to **[Selected]** which is great!
+While browsing for this domain I stopped by Godaddy and ran through their website. So it starts off a little odd since there's a [Continue to Cart] button when I haven't even added anything. Bit eager but lets continue. So when you click on **[Select]** it changes to **[Selected]** which is great!
 
 But then that little twinge of confusion set in. Ok it's been selected but so what? Is it in the cart? Where's the cue to checkout? The cart at the top didn't change at all, did it even add properly? Even if all these things did happen correctly in the background it still leaves two burning questions that I need to address. What just happened and what do I do next.
 
