@@ -3,6 +3,7 @@ layout: post
 title: Case Study - OpenAgent   
 tags: [Product Management, Marketing, UX]
 ---
+# Case Study - OpenAgent   
 
 Just did an application to [OpenAgent](www.openagent.com) and it was a great little mental exercise. I only have 2 years experience and they were asking for 3, so I thought I'd even the playing field a little by giving them a little slidedeck to show where my mind was coming from
 
@@ -58,4 +59,4 @@ So what's the thinking behind these changes.
 
 Looking at the data available users aren't staying on the page before exiting. The main hypothesis to be tested would be "Does lengthening average user duration increase growth/conversion"
 
-The idea behind presenting some tailored information before the call-to-action is based off lessons from [Gary Vaynerchuk](https://www.garyvaynerchuk.com/). One of the big ideas he puts out is the concept of [jab, jab, jab, right hook](https://www.youtube.com/watch?v=NfP43Y3IlDM). The idea is simply don't do a call-to-action without giving something back. OpenAgent has a great service but that's their Right Hook. It's their finisher and by jabbing a little more it might just pay dividends. 
+The idea behind presenting some tailored information before the call-to-action is based off lessons from [Gary Vaynerchuk](https://www.garyvaynerchuk.com/). One of the big ideas he puts out is the concept of [jab, jab, jab, right hook](https://www.youtube.com/watch?v=NfP43Y3IlDM). The idea is simply don't do a call-to-action without giving something back. OpenAgent has a great service but that's their Right Hook. It's their finisher and by jabbing a little more it might just pay dividends.
