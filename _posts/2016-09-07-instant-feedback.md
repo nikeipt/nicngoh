@@ -3,7 +3,6 @@ layout: post
 title: Let me feed that back to you
 tags: [UX]
 ---
-# Let me feed that back to you
 
 As humans we require feedback constantly to determine our next move, both on the web and with other people. When we crack a joke and no one laughs we know "Ok tuck that one far, far away and never use it again". Our senses are constantly taking in inputs and pinging off the environment and when we don't receive feedback it leaves us feeling confused and unsure of what to do next.
 

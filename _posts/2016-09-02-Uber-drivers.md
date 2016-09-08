@@ -3,7 +3,6 @@ layout: post
 title: Uber - Take me home
 tags: [Little big details]
 ---
-# Uber - Take me home
 
 Uber is one of those products that garners one of my favourite reactions - "Oh god why didn't someone think of this sooner". Getting home from late shenanigans has never been easier, but over the weekend I got to see some features from the driver side.
 
