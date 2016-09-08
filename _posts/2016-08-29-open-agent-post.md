@@ -52,6 +52,10 @@ Where growth = more users entering their details and opting in for phone calls. 
 ![Competitor comparison](/post images/2016-08-29-open-agent-post/B - Suburb profile beneath fold.png)
 
 
+#### And this was the user persona created to cross off pain points. Satisfying user journeys can be used alongside hypothesis testing.
+![OpenAgent User persona](/post images/2016-08-29-open-agent-post/Open Agent Persona.PNG)
+
+
 
 ## "Why?" + a little Gary Vee
 
