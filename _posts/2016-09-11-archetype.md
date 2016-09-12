@@ -11,8 +11,8 @@ presents the classic hero journey in 11 distinct stages that can be seen through
 
 The thing is the 'hero' is just one of the classic archetypes as described by Carl Jung (You probably know him best as the foundation to the modern Myer Briggs personality test).
 
-It's why we seem to see so many of the same characters in all our stories. The hopeless romantic, the rugged hero and the tortured artist. These characters are Jungian archetypes and they're powerful because they're universal. Regardless of culture, these ancient personalities are part of our shared heritage.
-We understand their stories, their hopes and fears before they're even told to us.
+It's why we seem to see so many of the same characters in all our stories. The hopeless romantic, the rugged hero and the tortured artist. These characters are Jungian archetypes and they're powerful because they're universal. These ancient personalities are our shared heritage and span across cultures and history.
+We understand their stories, their hopes and fears before they're even told to us.  
 
 When communicating to your user it pays to know where they fall on the spectrum. Are your users 'heroes' or 'outlaws'. Do they have a desire to explore the unknown like the 'explorer' or is their primal drive towards creation.
 
