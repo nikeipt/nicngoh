@@ -4,20 +4,24 @@ title: A case of heroic identity
 tags: [Marketing]
 ---
 
-While reading Maria Popova's excellent [Brain Picking's article](https://www.brainpickings.org/2015/04/28/what-makes-a-hero-joseph-campbell-monomyth/) I'm presented with the question "What Makes a Hero?". The wonderful animation shown below by TED Ed  
-presents the classic hero journey in 11 distinct stages that can be seen throughout characters as far apart as the Hobbit to Captain America.
 
-[![Youtube frame](/post images/2016-09-11-archetype/Youtube capture.PNG)](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
+Hi Canva!
 
-The thing is the 'hero' is just one of the classic archetypes as described by Carl Jung (You probably know him best as the foundation to the modern Myer Briggs personality test).
+I can see from the job listings that you're mostly after developers at the moment. If you're ever in the market for a product manager then I hope you'll consider me for the role.
 
-It's why we seem to see so many of the same characters in all our stories. The hopeless romantic, the rugged hero and the tortured artist. These characters are Jungian archetypes and they're powerful because they're universal. These ancient personalities are our shared heritage and span across cultures and history.
-We understand their stories, their hopes and fears before they're even told to us.  
+Your work is amazing and I'd love the opportunity to contribute in some way. I've attached my CV for your consideration and I hope to hear from you guys. 
 
-When communicating to your user it pays to know where they fall on the spectrum. Are your users 'heroes' or 'outlaws'. Do they have a desire to explore the unknown like the 'explorer' or is their primal drive towards creation.
+Sincerely,
 
-Knowing the narrative that drives your user is important however even more so is understanding the archetype that your product inhabits.
 
-Below is a map detailing human desire and its relation to the 12 archetypes. Taken from Emily Hean's excellent [slidedeck](http://www.slideshare.net/EmilyBennett/archetype-overview-from-the-hero-and-the-outlaw) on the same topic:
 
- ![Archetype map](/post images/2016-09-11-archetype/Archetypal mapping.PNG)
+Hey Papercloud
+
+As you can see from my CV, my previous role was that of a product manager at a smaller startup while also requiring me to be the social media manager, customer service representative, QA tester and occasional UX designer. I'm not only used to wearing many hats but sincerely enjoy the versatility that it brings.
+
+In addition to being flexible I'm also a fanatic when it comes to understanding the user and their underlying 'why'. In my previous role I operated in a customer service role to understand the user before generating user personas for both the social media team and the Flowers product team. (the result? Growing a FB community to 36K in one year and successfully prioritizing features in our backlog). Exploring consumer behavior and the triggers behind them are central to how I operate.
+
+I came across your digitial team while looking into the app CancerAid. Solutions like these that change the way people operate is exciting and I'd love to contribute to your next stage of growth. If you want to reach me then please give me a call at 0423 373 990 and thank you for your consideration.
+Sincerely,
+
+Nick Ngoh
