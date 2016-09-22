@@ -20,7 +20,7 @@ As people exercise they will fluctuate between heartrate zones. Now these zones 
 
 The basic premise is that as you shift from one zone into the other, the heartrate monitor will initiate a call to the music player to play something more energetic or more motivational lyrics to match the heartrate.
 
-###### Caveats:
+##### Caveats:
 Consider how often these API calls are made. Are they done at the end of the track? When the user chooses to change songs because it's not suitable. What if they shift zones and they want the song to continue till the end.
 
 
@@ -36,11 +36,11 @@ For a MVP I think something along the lines of matching the tempo's of a song to
   * i.e Songs with a tempo between 65 - 85 are for Zone 1
 * When real time heart rate crosses into a zone then the music is changed automatically or when the user presses NEXT
 
-###### Caveats:
+##### Caveats:
 
 * Musical taste is deeply personal. While I might listen to trance or upbeat BND when I'm working out, someone else might wish to listen to RNB even at the high end of their heartrate. To take into account these things a tracker should be placed i.e how often is a song skipped in a particular zone and when is it allowed to play to tailor the playlist to the user
 * Tempo is a good place to start measuring what songs to play when a user crosses into a heartrate zone but it's not the only metric to consider. Below is a song that I listen a lot to when I get ready for a big lift even though the BPM is significantly lower. Other metrics like **Energy** and **loudness** are both metrics I would consider as this feature progresses.
 
 ![Prisoner 1&2](/post images\2016-09-22-music-to-my-heart\Prison 1&2.PNG)
 
-Currently this doesn't exist though RockMyRun is making an attempt at this. Part of this is dependent on the wearables market. While the H7 is designed specifically for enthusiasts, other products like the Fitbit Surge require people to pay a $50 p.a fee just to export their data. As wearables get more accurate hopefully something like this will come about. 
+Currently this doesn't exist though RockMyRun is making an attempt at this. Part of this is dependent on the wearables market. While the H7 is designed specifically for enthusiasts, other products like the Fitbit Surge require people to pay a $50 p.a fee just to export their data. As wearables get more accurate hopefully something like this will come about.
