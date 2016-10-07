@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spotify's [Daily Mix]
-tags: [Product Management]
+tags: [Product Management, Little big details]
 ---
 
 Spotify just upped their game. Instead of having to wait till Monday for my weekly discovery there is now a daily mix available on iOS and Android.
