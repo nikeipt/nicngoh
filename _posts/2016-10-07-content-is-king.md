@@ -8,7 +8,7 @@ Say hello to Joshua Bell. Solo performer at age 14. World class concert virtuoso
 
 You might not recognise him but you've probably heard of his antics. Designed as a social experiment by the [Washington Post](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html), they dressed him in jeans and a tee with a baseball cap and asked him to perform at L'Enfant, a arcade just outside of the metro.
 
-The man who had previously played for a sold out crowd 2 days ago, who has played for heads of state and royalty was now performing in a metro arcade opposite in rush hour. You can see the video below:
+The man who had played for a sold out crowd just a few weeks ago, who has played for heads of state and royalty was now performing in a metro arcade opposite in rush hour. You can see the video below:
 
 [![stop to hear the music](/post images/2016-10-07-content-is-king/stop and hear the music.png)](https://www.youtube.com/watch?v=hnOPu0_YWhw)
 
