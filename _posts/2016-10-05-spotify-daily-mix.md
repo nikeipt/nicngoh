@@ -6,13 +6,13 @@ tags: [Product Management, Little big details]
 
 Spotify just upped their game. Instead of having to wait till Monday for my weekly discovery there is now a daily mix available on iOS and Android.
 
-![daily mix 1](/post images/2016-10-07-spotify-daily-mix/Daily mix 1.png)
+![daily mix 1](/post images/2016-10-05-spotify-daily-mix/Daily mix 1.png)
 
 
 What I really love in this is how they've separated the artists. Unlike [Recommended Songs] which pulls from the playlist, daily mix intelligently separates the artists into different genres and populates from there.  
 
 
-![daily mix 1](/post images/2016-10-07-spotify-daily-mix/Daily mix 3.png)
+![daily mix 1](/post images/2016-10-05-spotify-daily-mix/Daily mix 3.png)
 
 What I love about these mixes is that it doesn't just introduce new music. It spaces out discovery amongst songs already on my list so a new song will pop up only occasionally.
 
