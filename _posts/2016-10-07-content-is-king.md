@@ -16,7 +16,7 @@ This little experiment has been used as a teaching aid for topics as diverse as 
 
 A little memo about the violin the man is playing: The Gibson ex Huberman Stradivarius. Handcrafted by Antonio Stradivari during the instrument makers golden era, the violin is one of a handful that have survived from the 1700 period. Stradivari was such a master of his craft that even to this day his acoustics can't be replicated by modern makers.
 
-You've got one of the world's best violinist playing one of the world's best violins playing the most beautiful work ever written. Beginning with Bach's Chaconne, it's a piece that was described as a celebration of the breadth of human possibility. As far as content goes, you've got proverbial gold. The context however dictates how much attention we can give it. It's 7:51am outside a metro station. People are rushing to work and bringing phones to their mouths "Talk to me!".
+You've got one of the world's best violinist playing one of the world's best violins playing the one of the most beautiful pieces ever written. Beginning with Bach's Chaconne, it's a piece that was described as a celebration of the breadth of human possibility. As far as content goes, you've got proverbial gold. The context however dictates how much attention we can give it. It's 7:51am outside a metro station. People are rushing to work and bringing phones to their mouths "Talk to me!".
 
 The relentless bombarding of advertising and social media adverts have created a battlefield for the currency of choice: Attention.
 
