@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If Content is King, then Context is God
-tags: [Product Management, Little big details]
+tags: [Marketing]
 ---
 
 Say hello to Joshua Bell. Solo performer at age 14. World class concert virtuoso. Owner of $3 million violin.
