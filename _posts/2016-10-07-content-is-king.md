@@ -4,7 +4,7 @@ title: If Content is King, then Context is God
 tags: [Marketing]
 ---
 
-Say hello to Joshua Bell. Solo performer at age 14. World class concert virtuoso. Owner of $3 million violin.
+Say hello to Joshua Bell. Solo performer at age 14. World class concert virtuoso. Owner of a $3 million violin.
 
 You might not recognise him but you've probably heard of his antics. Designed as a social experiment by the [Washington Post](https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html), they dressed him in jeans and a tee with a baseball cap and asked him to perform at L'Enfant, a arcade just outside of the metro.
 
@@ -16,7 +16,7 @@ This little experiment has been used as a teaching aid for topics as diverse as 
 
 A little memo about the violin the man is playing: The Gibson ex Huberman Stradivarius. Handcrafted by Antonio Stradivari during the instrument makers golden era, the violin is one of a handful that have survived from the 1700 period. Stradivari was such a master of his craft that even to this day his acoustics can't be replicated by modern makers.
 
-You've got one of the world's best violinist playing one of the world's best violins playing the one of the most beautiful pieces ever written. Beginning with Bach's Chaconne, it's a piece that was described as a celebration of the breadth of human possibility. As far as content goes, you've got proverbial gold. The context however dictates how much attention we can give it. It's 7:51am outside a metro station. People are rushing to work and bringing phones to their mouths "Talk to me!".
+Beginning with Bach's Chaconne, it's a piece that was described as a celebration of the breadth of human possibility. You've got one of the world's best violinist playing one of the world's best violins playing one of the most beautiful pieces ever written. As far as content goes, you've got proverbial gold. The context however dictates how much attention we can give it. It's 7:51 am outside a metro station. People are rushing to work and bringing phones to their mouths "Talk to me!". Against such overwhelming surroundings our content fails to grab the attention of our audience.
 
 The relentless bombarding of advertising and social media adverts have created a battlefield for the currency of choice: Attention.
 
