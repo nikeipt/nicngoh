@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Product Manager / Traveller / Witticism on tap
+subtitle: Product Manager / Traveller / Backpack Geek
 ---
 
 My name is Nick Ngoh and I make things. With an education in Civil Engineering and Marketing (UNSW) and 2 years experience working as a product manager for [HeavenAddress](www.heavenaddress.com)
