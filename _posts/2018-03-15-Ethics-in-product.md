@@ -9,7 +9,7 @@ Let's take a step back. Any product, whatever it is, is designed to solve some s
 What happens however when the product you helped build is used for something other then it's intended purpose. What happens when we can't see the long tail of consequence from the products that we build.
 
 ## Infinite scroll and social media addiction
-![Infinite scroll](//post images/2018-03-15-Ethics-in-product/infinite scroll.gif)
+[![Infinite scroll](//post images/2018-03-15-Ethics-in-product/infinite scroll.gif)]
 
 In the 1970's there was an experiment run on pidgeons that found variable rewards supercharged the desire centers of the brain. Vary the reward and the pidgeons went mad pecking at the button. Our wiring's not too different. Throw in a variable reward, a pinch of mystery and the dopamine receptors in our brains go off like lights at Christmas.
 
