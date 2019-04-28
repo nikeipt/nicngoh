@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ethics in product
+title: Measuring product market fit
 tags: [Growth, Product Market Fit]
 ---
 

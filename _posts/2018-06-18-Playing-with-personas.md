@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ethics in product
+title: Playing with personas
 tags: [Personas, UX]
 ---
 

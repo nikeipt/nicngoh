@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Ethics in product
-tags: [Growth]
+title: Lessons in Mobile land
+tags: [Mobile]
 ---
