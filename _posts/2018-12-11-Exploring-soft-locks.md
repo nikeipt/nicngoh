@@ -1,6 +1,6 @@
 ---
+layout: post
 title: Exploring soft lock features
->>>>>>> Exploring-soft-locks
 tags: [Product, Retention]
 ---
 
