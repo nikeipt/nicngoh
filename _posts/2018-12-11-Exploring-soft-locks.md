@@ -1,8 +1,4 @@
 ---
-layout: post
-<<<<<<< HEAD
-title: Ethics in product
-=======
 title: Exploring soft lock features
 >>>>>>> Exploring-soft-locks
 tags: [Product, Retention]
